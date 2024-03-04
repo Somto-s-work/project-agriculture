@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374.458" height="654.943" viewBox="0 0 374.458 654.943">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_538" data-name="Path 538" d="M-7746-734v625.411c115.037,1.979,318.375,21.578,374.458,29.531V-734Z" transform="translate(0 -1126)" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_209" data-name="Path 209" d="M-.407,621.481s325.028-13.472,715.7,44.087,610.1-61.233,610.1-61.233V0H-.407Z" transform="translate(0.407)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c65e"/>
+      <stop offset="0.999" stop-color="#79d97c"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(7746 1860)" clip-path="url(#clip-path)">
+    <g id="Group_832" data-name="Group 832" transform="translate(-8008 -1858)">
+      <g id="Group_514" data-name="Group 514" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+        <path id="Path_205" data-name="Path 205" d="M532.411,0s-183.4,250.55-61.081,422.264c95.525,134.1,577.28,195.634,854.4-109.637V681.312H-.814V0Z" transform="translate(0.439)" opacity="0.298" fill="url(#linear-gradient)"/>
+        <path id="Path_206" data-name="Path 206" d="M256.9,0s-69.807,250.17,73.48,391.619,730.6,295.758,995.392,33.066V681.312H-.376V0Z" transform="translate(0.405)" fill="#00c65e" opacity="0.4"/>
+        <path id="Path_207" data-name="Path 207" d="M119.15,0S10.767,382.433,576.564,538.579s749.232-49.6,749.232-49.6V681.312H0V0Z" transform="translate(0.375)" opacity="0.4" fill="url(#linear-gradient)"/>
+        <path id="Path_208" data-name="Path 208" d="M-.071,0S-51.763,460.813,662.452,681.312H-.071Z" transform="translate(0.446)" opacity="0.701" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
